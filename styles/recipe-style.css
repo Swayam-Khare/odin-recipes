@@ -1,0 +1,10 @@
+.food-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h2 {
+    color: brown;
+}
